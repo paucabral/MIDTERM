@@ -1,0 +1,14 @@
+body {
+    min-height: 100%;
+    height: auto;
+    background-color: rgb(203, 219, 233) !important;
+    font-family: "Roboto", sans-serif;
+}
+
+.brand {
+    font-weight: 1000;
+}
+
+.btn {
+    font-weight: bold;
+}
